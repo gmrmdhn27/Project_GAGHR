@@ -1,0 +1,12 @@
+WAJIB DIBACA
+
+Kalau ingin melihat kode agar error saat di run wajib men download https://toedter.com/jcalendar/ karena saya mengimport library untuk kalender yang tidak ada di netbeans. setelah menginstal wajib menambahkan library jar yang ada didalam folder yang sudah di download letak nya di lib.
+
+-----ADMIN-----
+username : gema
+password : admin123
+
+-----USER-----
+username : bima
+password : bima 
+
